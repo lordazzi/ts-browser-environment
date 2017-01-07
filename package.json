@@ -31,9 +31,7 @@
   "homepage": "https://github.com/lordazzi/ts-browser-environment#readme",
   "dependencies": {
     "systemjs": "^0.19.41",
-    "typescript": "^2.1.4"
-  },
-  "devDependencies": {
+    "typescript": "^2.1.4",
     "lite-server": "^2.2.2"
   }
 }
