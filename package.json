@@ -1,0 +1,39 @@
+{
+  "name": "ts-browser-environment",
+  "version": "1.0.0",
+  "description": "Ambiente para a criação de pequenos projetos escritos em typescript para que rodem no browser",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordazzi/ts-browser-environment.git"
+  },
+  "keywords": [
+    "typescript",
+    "environment",
+    "browser",
+    "run",
+    "on",
+    "in",
+    "web",
+    "ts",
+    "tsc",
+    "basic",
+    "simple"
+  ],
+  "author": "Ricardo Azzi Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lordazzi/ts-browser-environment/issues"
+  },
+  "homepage": "https://github.com/lordazzi/ts-browser-environment#readme",
+  "dependencies": {
+    "systemjs": "^0.19.41",
+    "typescript": "^2.1.4"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
